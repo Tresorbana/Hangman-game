@@ -1,0 +1,6 @@
+LOSE | developer | tries: 6
+LOSE | software | tries: 6
+WIN | code | tries: 3
+WIN | developer | tries: 1
+WIN | developer | tries: 1
+LOSE | polymorphism | tries: 6
